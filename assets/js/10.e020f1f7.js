@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{415:function(s,e,n){"use strict";n.r(e);var t={__name:"demo-1",setup:s=>({__sfc:!0})},i=n(2),o=Object(i.a)(t,(function(){var s=this._self._c;this._self._setupProxy;return s("div",[this._v("\n    this is demo-1全局组件\n")])}),[],!1,null,"809abfe8",null);e.default=o.exports}}]);
