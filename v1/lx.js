@@ -1,5 +1,7 @@
-const data = [1,2,3,4]
+const data = [1, 2, 3, 4];
 
-let zz = data.map(x=>{ return {x:x.toString()}})
+let zz = data.map((x) => {
+  return { x };
+});
 
 console.log(zz);
