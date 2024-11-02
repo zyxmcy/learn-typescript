@@ -7,8 +7,9 @@ date: 2023-04-13
 [[toc]]
 
 ## A
-左对齐 | 居中对齐 
-:----- | :------ 
+
+左对齐 | 居中对齐
+:----- | :------
 ability  |  n.能力,才能
 able|adj.有能力的
 be able to do sth.|能做某事
@@ -242,8 +243,9 @@ right away|立刻,马上
 awful|a. 可怕的, 庄严的, 虔敬的
 
 ## B
-左对齐 | 居中对齐 
-:----- | :------ 
+
+左对齐 | 居中对齐
+:----- | :------
 baby|
 back|a. 后面的 vt. 使后退, 支持 vi. 倒退, 背靠 adv. 向后地 n. 背部, 后面
 back and forth|往返
@@ -312,7 +314,7 @@ believe|v. 相信
 believe in|相信
 bell|n. 铃, 钟
 belong|
-belong to | 
+belong to |
 below|prep. 在下面 adv. 在下面
 belt|n. 带子, 地带
 bench|n. 长椅子
@@ -345,7 +347,7 @@ birth|
 birthday|
 biscuit|n. 饼干
 bit|n. 少量,一点
-bite|n. v.咬, 
+bite|n. v.咬,
 bitter|a. 苦的, 痛苦的, 怀恨的 adv. 刺骨
 black|
 blackboard|n. 黑板
@@ -369,7 +371,7 @@ bone|
 book|
 boot|n. 长靴, 踢, 解雇, 效用
 border|
-bore|n. 令人讨厌的人,vt. 使烦扰, 
+bore|n. 令人讨厌的人,vt. 使烦扰,
 born|a. 天生的  
 borrow|vt. 借, 借入, 借用
 boss|
@@ -381,12 +383,12 @@ bottom|n. 底部 a. 底部的
 boundary|n. 边界, 分界线
 bow|n. 弓
 bow|n. 鞠躬
-bowl|n. 碗, 木球, 
+bowl|n. 碗, 木球,
 box|
 boy|
 brain|n. 脑
 branch|
-brand|n. 商标, 牌子, 
+brand|n. 商标, 牌子,
 brave|a. 勇敢的,
 bread|n. 面包
 break|n. 休息, 中断, 破裂处, 绝交, 破晓, 突变 vt. 打破, 弄破, 弄坏, 破坏, 违反, 打断, 削弱, 放弃 vi. 破碎, 决裂, 破晓, 突变, 变弱, 暂停
@@ -396,7 +398,7 @@ break out|逃出,爆发
 break up|中止,结束,打碎,分解
 breakfast|n. 早餐
 breath|n. 呼吸, 气息, 瞬间
-breathe|vi. 呼吸, 
+breathe|vi. 呼吸,
 brick|n. 砖块
 bridge|n. 桥, 舰桥
 brief|n. 摘要, 简报 a. 简短的, 短暂的 vt. 对...作简报, 摘要, 节录
@@ -436,8 +438,9 @@ buy|
 by|
 
 ## c
-左对齐 | 居中对齐 
-:----- | :------ 
+
+左对齐 | 居中对齐
+:----- | :------
 cabbage|
 cable|
 cake|
@@ -780,8 +783,8 @@ cut off|
 cut out|
 cycle|
 
-
 ## D
+
 daily|
 dam|
 damage|

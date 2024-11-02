@@ -33,7 +33,8 @@ function greet(person: Person) {
 ```
 
 或者通过类型别名:
-```ts
+
+``` ts
 type Person = {
     name: string;
     age: number;
